@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "spi.h": "c",
+        "driver_w25q64.h": "c",
+        "driver_oled_hardware.h": "c"
+    }
+}
